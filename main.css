@@ -148,7 +148,7 @@ nav ul.active {
   
             /*    Consultation Section    */
 .consultation-section{
-    background-image: url('./files/bg-img-1.jpeg');
+    background-image: url('./bg-img-1.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -201,7 +201,7 @@ nav ul.active {
 
 @media (max-width: 992px) {
     .consultation-section{
-        background-image: url('./files/sm-devices-bg-img-1.jpg');
+        background-image: url('./sm-devices-bg-img-1.jpg');
         background-repeat: no-repeat;
         background-size: contain;
         background-size: 100% 70%;
@@ -539,7 +539,7 @@ nav ul.active {
 
 /*    Our Services Section    */
 .services-section{
-    background-image: url('./files/bg-img-2.jpg');
+    background-image: url('./bg-img-2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -596,7 +596,7 @@ nav ul.active {
 
 @media (max-width: 992px){
     .services-section{
-        background-image: url('./files/bg-img-2.jpg');
+        background-image: url('./bg-img-2.jpg');
         background-repeat: no-repeat;
         background-size: cover;
         background-attachment: fixed;
